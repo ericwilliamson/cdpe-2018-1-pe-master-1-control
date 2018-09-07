@@ -13,6 +13,6 @@ mod 'puppet_agent',
 mod 'transition',
   :git => 'https://github.com/puppetlabs/puppetlabs-transition.git',
   :ref => '0.1.0'
-mod 'transition',
+mod 'cd4pe',
   :git => 'git@github.com:puppetlabs/puppetlabs-cd4pe.git',
   :ref => 'master'
